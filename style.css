@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(29, 61, 50);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
